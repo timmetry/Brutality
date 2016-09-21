@@ -1,0 +1,10 @@
+C:\Users\Tim\AppData\Local\Temporary Projects\Brutality\bin\Release\Brutality.exe
+C:\Users\Tim\AppData\Local\Temporary Projects\Brutality\bin\Release\Brutality.pdb
+C:\Users\Tim\AppData\Local\Temporary Projects\Brutality\obj\x86\Release\Brutality.exe
+C:\Users\Tim\AppData\Local\Temporary Projects\Brutality\obj\x86\Release\Brutality.pdb
+C:\Users\Tim\documents\visual studio 2010\Projects\Brutality\Brutality\obj\x86\Release\Brutality.exe
+C:\Users\Tim\documents\visual studio 2010\Projects\Brutality\Brutality\obj\x86\Release\Brutality.pdb
+C:\Users\Tim\documents\visual studio 2010\Projects\Brutality\Brutality\bin\Release\Brutality.exe
+C:\Users\Tim\documents\visual studio 2010\Projects\Brutality\Brutality\bin\Release\Brutality.pdb
+G:\Users\Tim\Documents\Visual Studio 2010\Projects\Brutality\Brutality\obj\x86\Release\Brutality.exe
+G:\Users\Tim\Documents\Visual Studio 2010\Projects\Brutality\Brutality\obj\x86\Release\Brutality.pdb
